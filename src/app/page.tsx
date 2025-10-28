@@ -48,7 +48,7 @@ export default function Home() {
             { text: "View My Work", href: "projects" },
             { text: "Get in Touch", href: "contact" }
           ]}
-          imageSrc="https://images.pexels.com/photos/5716006/pexels-photo-5716006.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+          imageSrc="https://images.pexels.com/photos/3184460/pexels-photo-3184460.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
           imageAlt="Professional portrait of Romet Kriks"
           imagePosition="right"
         />
